@@ -1,0 +1,9 @@
+package employee;
+public class Employee {
+    public static void main(String[] args) {
+        System.out.println("Name\t\t\tYear of joining\nAddress");
+        System.out.println("Robert\t\t\t1994\n64C- WallsStreet");
+        System.out.println("Sam\t\t\t2000\n68D- WallsStreet");
+        System.out.println("John\t\t\t1999\n26B- WallsStreet");
+    }
+}
